@@ -1,0 +1,11 @@
+faker
+pandas
+numpy
+scikit-learn
+fastapi
+uvicorn
+pypdf
+python-multipart
+joblib
+xgboost
+requests
